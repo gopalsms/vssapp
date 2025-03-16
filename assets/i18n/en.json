@@ -19,7 +19,7 @@
 	"General_Text_Vice_President": "( Vice President )",
 
 	"General_Text_Account_Information": "Account Information",
-	"General_Text_Account_Information_QR": "Account QR",
+	"General_Text_Account_Information_QR": "QR Code",
 	"General_Text_Account_Name": "Account Name: ",
 	"General_Text_Account_Number": "Account Number: ",
 	"General_Text_Account_Type": "Account Type: ",
@@ -206,9 +206,9 @@
 	
 	
 	"Menu_donation": "DONATION",
-	"Menu_donation_Header": "Account Details",
-	"Menu_donation_Type_1": "Donate us over Bank Account",
-	"Menu_donation_Type_2": "Donate us by scanning QR Code",
+	"Menu_donation_Header": "Donate for a noble cause",
+	"Menu_donation_Type_1": "Donate for a noble cause over Bank Account",
+	"Menu_donation_Type_2": "Donate for a noble cause by scanning QR Code",
 
 	"Menu_donation_AccName": "Account Name: ",
 	"Menu_donation_AccName_Text": "VIVEKANANDA SAMIDH SANGHA",
